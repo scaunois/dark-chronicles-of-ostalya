@@ -1,0 +1,1 @@
+Ce répertoire contient plusieurs fichiers de notes, notamment des fiches sur différents éléments que je veux préciser.
