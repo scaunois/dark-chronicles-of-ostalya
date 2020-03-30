@@ -1,2 +1,6 @@
 
+# temporary files
 ~*
+
+# Mac specific
+.DS_Store
